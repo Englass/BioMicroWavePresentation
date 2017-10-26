@@ -1,0 +1,11 @@
+{
+  "name": "BioMicroWave",
+  "version": "1.0.0",
+  "description": "Mythbuster Project on Microwaves.",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}

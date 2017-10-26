@@ -1,0 +1,3 @@
+This is a presentation for Bio on an ever-lasting mythbuster question: are microwave ovens carcinogenic?
+I definetly could have created this using more refined frameworks, but for this project I decided to stick to my roots as its more fun. The reward is ten times better when you get it to work.
+I use html, css, and javascript. I have one file in .json, but it was to force Herou to use harp as my server since the site is 'static'. Heroku only servs dynamic sites and this was a workaround for sites that don't use frameworks such as ruby on rails. 
