@@ -3,6 +3,24 @@
 	font-family: georgia;
 	src: url('microsoft.com/typography/fonts/family.aspx');
 }*/
+.images{
+	width: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 400px;
+}
+.any_src{
+	display: block;
+	margin: 0 auto;
+}
+.quotes{
+	font-size: 0.74em;
+	margin-top: 10px;
+}
+.quote{
+	margin: 0 20px;
+}
 .header-block{
 	background-color: #161515;
 	margin: 0 0 10px;
@@ -81,12 +99,13 @@
 .article_post{
 	display: block;
 	font-family: georgia;
-	text-align: center;
 	margin: 10vh 0 0 0em;
+	text-align: center;
 }
 .links{
 	text-decoration: none;
 	color: white;
+
 }
 .post_title{
 	border-width: 1px;
@@ -96,6 +115,7 @@
 	display: inline-block;
 	vertical-align: center;
 	padding: 0 10px 0px 10px;
+
 }
 .post_body{
 	overflow: scroll;
@@ -107,6 +127,8 @@
 	height: 70vh;
 	max-height: 70vh;
 	overflow: none;
+	text-align: left;
+
 }
 .post_wide{
 
@@ -130,8 +152,11 @@
 
 }
 .conclusion{
-
+	text-align: center;
 }
 .con{
 	
+}
+#title{
+	text-align: center;
 }

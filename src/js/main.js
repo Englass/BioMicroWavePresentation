@@ -73,5 +73,7 @@ $(".navd").click(function(event){
 	}
 	var $this = $($cur);
 	changeClickedBackground($this);
+	// $("#the_post").innerHTML = variableLongText;
+	// $("#the_post").scrollTop = 0;
 
 });
